@@ -9,6 +9,7 @@ gem 'command_line_reporter', '>=3.0'
 gem 'gettext-setup'
 gem 'rack', '< 2.0.0'
 gem 'multi_json'
+gem 'gettext-setup'
 
 group :doc do
   gem 'yard'
